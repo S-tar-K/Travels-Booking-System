@@ -567,7 +567,6 @@ int main()
     char op;
     initTable();
     readFromFile();
-    getch();
     Password();
     system("cls");
     displayBoard("WELCOME TO BITS AND BYTES");
