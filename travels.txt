@@ -8,4 +8,3 @@ Pruthivi Tiruchendur 54323456782 2 SUM2NAC
 Muthuram Virudhunagar 54321234564 4 SUM2NAC 
 Vishnuvardan Virudhunagar 123456765 5 SUM2NAC 
 Kevinsilva Thuthukudi 12345678901 1 TRS2NAC 
-Dhanupriyan Virudhunagar 12345678904 4 TRS1AC 
